@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084131496834",
+    "project_id": "halotanifix",
+    "storage_bucket": "halotanifix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084131496834:android:f73235d3ba5b05cdb2759b",
+        "android_client_info": {
+          "package_name": "com.example.halotani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_de3pE5bmJ8t47pqiKWPmdCqUpxNaizo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
